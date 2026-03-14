@@ -1,2 +1,15 @@
-# flower-recognition-classification
-Flower recognition using CNN and image classification
+# Technologies
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+ #Model
+Convolutional Neural Network (CNN)
+
+# Classes
+- Jasmine
+- Rose
+- Red Zonal Geranium
+
